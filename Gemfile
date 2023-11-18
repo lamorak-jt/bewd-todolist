@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 2.11'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1'
 
+gem 'rails_admin', '~> 2.0'
+
 # AWS S3
 gem 'aws-sdk-s3', '~> 1.114'
 # Webrick
